@@ -7,9 +7,9 @@
 >
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 >
-> + **Duración**: 1 hora.
+> + **Duración**: 1,5 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/main/imagenes/network.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/2023_2024/imagenes/network.jpg?raw=true)
 
 
 
@@ -22,7 +22,8 @@
 
 ## Hilo argumental
 
-+ La definición clásica de ecosistema (conjunto de organismos que viven en un territorio, más sus relaciones ...) está bien para ponerla en un examen. Describe la realidad de los ecosistemas de manera un poco simple. Además, carece de algo importante en las buenas definiciones: preguntas. Una definición que no deja opción a preguntas es un poco aburrida. Así que, en esta sesión redefiniremos el concepto de ecosistema para conseguir una comprensión más profunda. ES UNA DEFINICIÓN ESTRUCTURAL. AHORA NECESITAMOS UNA MÁS SISTÉMICA. HABLAR DE LOS SERVICIOS ECOSISTÉMICOS COMO PROPIEDAD EMERGENTE Y PONER EL EJEMPLO DEL ESTADO DE ÁNIMO DE UNA PERSONA  Y SUS MITOCONDRIAS.
++ La definición clásica de ecosistema (conjunto de organismos que viven en un territorio, más sus relaciones ...) está bien para ponerla en un examen. Describe la realidad de los ecosistemas de manera un poco simple. Además, carece de algo importante en las buenas definiciones: preguntas. Una definición que no deja opción a preguntas es un poco aburrida. Así que, en esta sesión redefiniremos el concepto de ecosistema para conseguir una comprensión más profunda. 
++ Además, esta definición es reduccionista y mecanicista. Esto quiere decir que trata de describir el ecosistema poniendo el foco en los elementos estructurales que lo conforman. Eso es útil para algunas cosas, pero no tanto para la asignatura de gestión de ecosistemas. Esta definción nos impide ver, por ejemplo, las propiedades del ecosistema de una manera general. 
 + Necesitamos entender bien qué es un ecosistema porque es lo que, en teoría, vamos a aprender a gestionar en esta asignatura.
 + Empezaremos diciendo que un ecosistema es un sistema. No parce una definición mucho mejor que la anterior, pero sí lo es. Un sistema es *un conjunto de elementos que coexisten en el dominio del tiempo y del espacio y que interactúan para conseguir un propósito determinado*. En este caso consideramos que propósito no tiene connotaciones antropomórficas. Es decir, no relacionamos el propósito con la conciencia humana. Una bacteria puede tener un propósito aunque no sea consciente de ello.
 + Si vemos la realidad usando el concepto de sistema, nos damos cuenta de que hay muchos sistemas. De forma más o menos intuitiva podemos describir distintos sistemas con un nivel de complejidad variable. Así, por ejemplo, un vaso que contenga agua es un sistema más simple que una tormenta con rayos y truenos. Y ésta es más simple que un ecosistema. 
@@ -65,3 +66,6 @@ La siguiente presentación muestra gráficamente lo descrito más arriba.
 
 <p><iframe src="https://prezi.com/view/crs0TaprfzmbUnWyfD4y/embed" width="1200" height="900"> </iframe></p>
 
+
+
+Por último, os recomiendo encarecidamente que leais con atención [este](https://www.15-15-15.org/webzine/2019/02/03/bailar-con-sistemas/) texto. Es una joya de Donella Meadows. Esta investigadora fue una de las primeras en alertar sobrel deterioro ambietal provocado por la acividad humana. Su visión sobre los sistemas es profundamente edificante. Y la metáfora de "bailar con los sistemas" nos resultará muy útil en la gestión de socioecosistemas. 
