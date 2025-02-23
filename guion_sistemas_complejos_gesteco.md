@@ -70,7 +70,7 @@ La siguiente presentación muestra gráficamente lo descrito más arriba.
 
 
 
-En [este](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/blob/2025_2025/presentacion/sistemas_complejos_adaptativos_gesteco.pdf?raw=true) enlace puedes descargar la presentación en pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/blob/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.zip?raw=true) tienes la versión dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/blob/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.exe?raw=true) para Windows. 
+En [este](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.pdf) enlace puedes descargar la presentación en pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.zip) tienes la versión dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/raw/refs/tags/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.exe) para Windows. 
 
 
 
