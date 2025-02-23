@@ -11,7 +11,7 @@
 
 
 
-![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/2023_2024/imagenes/network.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco/blob/2024_2025/imagenes/network.jpg?raw=true)
 
 
 
@@ -70,7 +70,7 @@ La siguiente presentación muestra gráficamente lo descrito más arriba.
 
 
 
-En este enlace puedes descargar la presentación en pdf. Aquí tienes la versión pdf para Mac y aquí para Windows. 
+En [este](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/blob/2025_2025/presentacion/sistemas_complejos_adaptativos_gesteco.pdf?raw=true) enlace puedes descargar la presentación en pdf. [Aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/blob/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.zip?raw=true) tienes la versión dinámica para Mac y [aquí](https://github.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/blob/2024_2025/presentacion/sistemas_complejos_adaptativos_gesteco.exe?raw=true) para Windows. 
 
 
 
